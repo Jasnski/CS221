@@ -1,0 +1,7 @@
+﻿  graph.cpp
+C:\Programing Class\CS2212023\Assignment 2\Problem 2\graph.cpp(105,29): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Problem 2.vcxproj -> C:\Programing Class\CS2212023\Assignment 2\Problem 2\Debug\Problem 2.exe

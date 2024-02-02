@@ -1,0 +1,3 @@
+﻿  Problem 1.cpp
+C:\Programing Class\CS2212023\Assignment 2\Problem 1\Problem 1\Problem 1.cpp(89,43): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Problem 1.vcxproj -> C:\Programing Class\CS2212023\Assignment 2\Problem 1\Debug\Problem 1.exe
